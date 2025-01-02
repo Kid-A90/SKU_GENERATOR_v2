@@ -1,4 +1,6 @@
 streamlit
 pandas
 sqlite3
-openpyxl
+git add requirements.txt
+git commit -m "Add openpyxl to requirements"
+git push origin main
